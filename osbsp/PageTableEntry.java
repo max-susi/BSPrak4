@@ -1,4 +1,4 @@
-package osbsp;
+package lennart.magnus.borchert.bs.praktikum4;
 
 /**
  * PageTableEntry (pte)
