@@ -163,7 +163,7 @@ public class OperatingSystem {
 	/**
 	 * Prozess-Objekt (Thread) erzeugen und in Prozessliste eintragen
 	 * 
-	 * @param die
+	 * @param processSize
 	 *            Gr��e des Prozess-Hauptspeicherbedarfs in Byte
 	 * 
 	 * @return die neue Prozess-ID oder -1, wenn Erzeugung nicht m�glich
