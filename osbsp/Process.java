@@ -1,5 +1,3 @@
-package lennart.magnus.borchert.bs.praktikum4;
-
 /*
  * Process
  *

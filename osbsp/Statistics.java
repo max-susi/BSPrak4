@@ -1,4 +1,3 @@
-package lennart.magnus.borchert.bs.praktikum4;
 /**
  * Sammlung und Auswertung statistischer Daten eines Simulationslaufs
  */

@@ -1,4 +1,3 @@
-package lennart.magnus.borchert.bs.praktikum4;
 
 /**
  * Simulation eines Hauptspeicherverwaltungssystems auf Basis eines
