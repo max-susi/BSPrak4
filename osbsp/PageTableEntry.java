@@ -1,4 +1,3 @@
-package osbsp;
 
 /**
  * PageTableEntry (pte)

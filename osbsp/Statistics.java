@@ -1,4 +1,3 @@
-package osbsp;
 /**
  * Sammlung und Auswertung statistischer Daten eines Simulationslaufs
  */
@@ -19,7 +18,7 @@ public class Statistics {
 	}
 
 	/**
-	 * Alle Statistik-Zähler zurücksetzen
+	 * Alle Statistik-Zï¿½hler zurï¿½cksetzen
 	 */
 	public synchronized void resetCounter() {
 		pageFaults = 0;
@@ -65,21 +64,21 @@ public class Statistics {
 	}
 
 	/**
-	 * Seitenfehler zählen
+	 * Seitenfehler zï¿½hlen
 	 */
 	public synchronized void incrementPageFaults() {
 		pageFaults++;
 	}
 
 	/**
-	 * Lesezugriff zählen
+	 * Lesezugriff zï¿½hlen
 	 */
 	public synchronized void incrementReadAccesses() {
 		readAccesses++;
 	}
 
 	/**
-	 * Schreibzugriff zählen
+	 * Schreibzugriff zï¿½hlen
 	 */
 	public synchronized void incrementWriteAccesses() {
 		writeAccesses++;
